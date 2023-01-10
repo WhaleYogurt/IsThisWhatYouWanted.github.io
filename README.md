@@ -4,6 +4,18 @@
 	</head>
 
 	<body>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1179908084791983"
+     		crossorigin="anonymous"></script>
+		<!-- Basic Ads Square -->
+		<ins class="adsbygoogle"
+    		style="display:block"
+     		data-ad-client="ca-pub-1179908084791983"
+     		data-ad-slot="4831807669"
+     		data-ad-format="auto"
+     		data-full-width-responsive="true"></ins>
+		<script>
+     		(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
 		<hr>
         		<center><h1>How To Make a Basic Github Website</h1></center>
 		<hr>
